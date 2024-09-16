@@ -1,10 +1,8 @@
 ---
 # the default layout is 'page'
-icon: fas fa-info-circle
+icon: fas  fa-floppy-o
 order: 4
 ---
-
-# AI Disclaimer
 
 I support artists and creators. Copyrights must be respected.
 
