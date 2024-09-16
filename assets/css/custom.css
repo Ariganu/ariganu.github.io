@@ -1,0 +1,17 @@
+/* Define the custom font using @font-face */
+@font-face {
+    font-family: 'iAWriterMonoV'; /* Name of your font */
+    src: url('/assets/fonts/iAWriterMonoV.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* Apply the font to the entire website */
+body {
+    font-family: 'iAWriterMonoV', monospace;
+}
+
+/* Optionally apply the font to specific elements */
+h1, h2, h3, h4, h5, h6, p {
+    font-family: 'iAWriterMonoV', monospace;
+}
