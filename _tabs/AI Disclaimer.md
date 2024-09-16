@@ -5,7 +5,7 @@ icon: fas fa-spinner
 order: 4
 ---
 
-I support artists and creators. Copyrights must be respected.
+I support artists and creators. Copyrights and original works must be respected.
 
 I never use AI generated images or content in a public product. Commercial or not.
 
