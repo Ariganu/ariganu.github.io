@@ -1,13 +1,13 @@
 copyright:
   # Shown at the bottom of the post
-  license:
-    template:
-    name:
-    link:
+  license: &nbsp
+    template: &nbsp
+    name: &nbsp
+    link: &nbsp
 
   # Displayed in the footer
-  brief:
-  verbose: >-
+  brief: &nbsp
+  verbose: >- &nbsp
 
 
-meta: Ariganu
+meta: &nbsp
