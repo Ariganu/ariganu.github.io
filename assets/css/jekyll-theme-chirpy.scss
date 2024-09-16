@@ -1,0 +1,27 @@
+---
+---
+
+@import 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
+
+/* append your custom style below */
+
+/* Import your theme's main stylesheet */
+@import "{{ site.theme }}";
+
+/* Define the custom font using @font-face */
+@font-face {
+  font-family: 'iAWriterMonoV';
+  src: url('{{ "/assets/fonts/iAWriterMonoV.ttf" | relative_url }}') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Apply the custom font to all text elements */
+* {
+  font-family: 'iAWriterMonoV', monospace;
+}
+
