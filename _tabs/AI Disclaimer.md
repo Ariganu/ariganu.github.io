@@ -1,5 +1,6 @@
 ---
 # the default layout is 'page'
+title: AI Disclaimer
 icon: fas fa-spinner
 order: 4
 ---
