@@ -1,6 +1,6 @@
 ---
 # the default layout is 'page'
-icon: fas  fa-floppy-o
+icon: fas fa-floppy-o
 order: 4
 ---
 
