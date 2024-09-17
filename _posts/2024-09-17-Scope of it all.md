@@ -1,4 +1,4 @@
----                                          ---
+---
 title: Scope of it all
 date: 2024-09-17 12:25:22 +0000
 categories: [Development, Thoughts]
