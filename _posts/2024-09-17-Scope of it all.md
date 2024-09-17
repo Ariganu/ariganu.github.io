@@ -3,6 +3,7 @@ title: Scope of it all
 date: 2024-09-17 12:25:22 +0000
 categories: [Development, Thoughts]
 tags: [dev]
+description: Space is vast. How do I handle it?
 ---
 
 ![img-description](/assets/img/post_img/240917_1.jpg)
