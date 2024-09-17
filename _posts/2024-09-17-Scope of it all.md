@@ -26,7 +26,7 @@ I came down on visual fidelity hard. I pushed it into the depths of the earth, b
 
 I've come up with ways to keep the game visually appealing, immersive and generally nice to look at. First thought when someone sees the game should be "oh neat".
 
-I'm constantly looking new ways to present the game in unique and beautiful ways that is non-trivial to produce. You wouldn't believe how fast I can create spaceships on a blender once I have a design on my mind. Game's aesthetic direction enables me to have easily producable designs too.
+I'm constantly looking new ways to present the game in unique and beautiful ways that is trivial to produce. You wouldn't believe how fast I can create spaceships on a blender once I have a design on my mind. Game's aesthetic direction enables me to have easily producable designs too.
 
 ---
 **Compromising shouldn't be about scrapping things as a whole. It should be about adapting the concept in a unique and production friendly way.**
