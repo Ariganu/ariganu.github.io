@@ -1,8 +1,7 @@
 ---                                          ---
-layout: post
 title: Scope of it all
-date: 2024-09-17 12:25:22 +2222
-categories: [development, thoughts]
+date: 2024-09-17 12:25:22
+categories: [Development, Thoughts]
 tags: [dev]
 ---
 
