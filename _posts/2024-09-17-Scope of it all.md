@@ -6,7 +6,7 @@ categories: [development, thoughts]
 tags: [dev]
 ---
 
-![img-description](/assets/img/post_img/240917_1.png)
+![img-description](/assets/img/post_img/240917_1.jpg)
 _This image is AI generated. I don't support using AI generated content on public products. This is purely to help visualise, to be used in blog only. See more at AI Disclaimer._
 
 Space is **vast**. How do I handle it?
