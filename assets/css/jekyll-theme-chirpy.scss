@@ -24,3 +24,7 @@ html[data-mode=dark] {
   --main-bg: rgb(26, 26, 26);
   --link-color: rgb(40 200 200);
 }
+
+.embed-audio+em, .embed-video+em, .content a.popup+em {
+  font-size: 25%;
+}
