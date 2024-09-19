@@ -20,7 +20,7 @@ platforms:
 
   - type: Internet Explorer
     icon: "fa-internet-explorer"
-    link: "http://futureofinternet"
+    link: "https://futureofinternet"
 
   - type: Galactic Empire
     icon: "fa-empire"
