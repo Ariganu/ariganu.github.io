@@ -11,17 +11,17 @@ platforms:
     link: "https://lmao"
 
   - type: Tumblr
-    icon: "fa-tumblr"
+    icon: "fa fa-tumblr"
     link: "https://hello2010"
 
   - type: Pied Piper
-    icon: "fa-pied-piper"
+    icon: "fa fa-pied-piper"
     link: "https://doorsthatgolikethis"
 
   - type: Internet Explorer
-    icon: "fa-internet-explorer"
+    icon: "fa fa-internet-explorer"
     link: "https://futureofinternet"
 
   - type: Galactic Empire
-    icon: "fa-empire"
+    icon: "fa fa-empire"
     link: "https://ifindyourlackoffaithdisturbing"
