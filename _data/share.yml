@@ -8,20 +8,20 @@ platforms:
 
   - type: Google Plus
     icon: "fab fa-google-plus"
-    link: "lmao"
+    link: "https://lmao"
 
   - type: Tumblr
     icon: "fa-tumblr"
-    link: "Hello 2010"
+    link: "https://hello2010"
 
   - type: Pied Piper
     icon: "fa-pied-piper"
-    link: "Doors that go like this"
+    link: "https://doorsthatgolikethis"
 
   - type: Internet Explorer
     icon: "fa-internet-explorer"
-    link: "Future of internet"
+    link: "http://futureofinternet"
 
   - type: Galactic Empire
     icon: "fa-empire"
-    link: "I find your lack of faith disturbing"
+    link: "https://ifindyourlackoffaithdisturbing"
