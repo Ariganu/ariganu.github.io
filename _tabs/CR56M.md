@@ -5,9 +5,9 @@ icon: fas fa-cube
 order: 1
 ---
 
-CR56M is the codename of our latest video game.
+CR56M (pronounced Crism, if you want to) is the codename of our latest video game.
 
-CR56M is an immersive sci-fi game. It is text and UI heavy with beautiful in-universe visualizations, with a user friendly approach that is easy to learn and master.
+CR56M is an immersive sci-fi game. It is text and UI heavy with beautiful in-universe visualizations and a user friendly approach that is easy to learn and master.
 
 Our goal is to make CR56M one of the most immersive science fiction games you can play.
 
